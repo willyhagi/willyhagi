@@ -2,7 +2,7 @@
 
 :left_speech_bubble: Meteorologista, (Paleo-) Climatologista e Geocientista.
 * CREA-AM: 041934791-7.
-    * Meteorologia Tropical, Variabilidade e Mudanças Climáticas, Modelagem Climática e Sensoriamento Remoto;
+    * Meteorologia Tropical, Variabilidade e Mudanças Climáticas, Modelagem e Sensoriamento Remoto;
     * Clima da Amazônia, Conservação Ambiental, Uso da Terra e Agricultura Sustentável.
 
 [![Linkedin Badge](https://img.shields.io/badge/-willyhagi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willyhagi/)](https://www.linkedin.com/in/willyhagi/)
