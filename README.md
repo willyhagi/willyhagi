@@ -1,7 +1,7 @@
 ### Willy Hagi, 25, amazonense e manauara.
 
 :left_speech_bubble: Meteorologista, (Paleo-) Climatologista e Geocientista.
-* CREA-AM: 041934791-7.
+* CREA-AM: 0419347917.
     * Meteorologia Tropical, Variabilidade e Mudanças Climáticas, Modelagem e Sensoriamento Remoto;
     * Clima da Amazônia, Conservação Ambiental, Uso da Terra e Agricultura Sustentável.
 
